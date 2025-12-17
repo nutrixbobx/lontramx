@@ -1,0 +1,92 @@
+Dataset: UAZ Mammals 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Base de datos de mamíferos de México depositados en colecciones de Estados Unidos y Canadá 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Digitalización y Sistematización de las Colecciones Biológicas Nacionales del Instituto de Biología, UNAM (vertebrados) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Actualización y enriquecimiento de las bases de datos del proyecto de evaluación y análisis geográfico de la diversidad faunística de Chiapas 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: MLZ Mammal Collection (Arctos) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Global Roadkill Data: a dataset on terrestrial vertebrate mortality caused by collision with vehicles (Opportunistic Records) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Natural History Museum (London) Collection Specimens 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Peces y Mamíferos de la región de Norogachi, Alta Sierra Tarahumara, Chihuahua (Mamíferos) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Mammal specimens 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Computarización de las colecciones de vertebrados terrestres de la Escuela Nacional de Ciencias Biológicas, IPN Fase 4 (Mamíferos) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Inventario de aves y mamíferos en humedales de Laguna de Términos y Pantanos de Centla en Tabasco y Campeche 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NMNH Extant Specimen Records (USNM, US) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Deforestación y fragmentación del hábitat: consecuencias ecológicas sobre la fauna de mamíferos de la selva tropical estacional 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: CNMA/Colección Nacional de mamíferos 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Diversidad y distribución mastofaunística en las regiones prioritarias para la conservación del estado de Oaxaca 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Field Museum of Natural History (Zoology) Mammal Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SDNHM Mammology Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Museum of Comparative Zoology, Harvard University 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Anfibios, reptiles y mamíferos del corredor biológico del norte de Yucatán depositados en las colecciones de la Escuela Nacional de Ciencias Biológicas 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: CNMA/Colección de Mamíferos de la Estación de Biología Chamela 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: KUBI Mammalogy Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Bosque Mesófilo de Montaña de México 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The mammals collection (ZM) of the Muséum national d'Histoire naturelle (MNHN - Paris) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Catálogo de los mamíferos de México en resguardo de The Natural History Museum (London), Inglaterra 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Vertebrados terrestres de San Juan de Camarones, Durango 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Monitoreo de la Fauna Silvestre con Capacitación y Certificación de Monitores Comunitarios en las Microrregiones Prioritarias para la Conectividad y Conservación de la Biodiversidad Agua Blanca, Cañón del Usumacinta, Sierra de Tabasco, * 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Apoyo a las colecciones biológicas de la Facultad de Ciencias de la UNAM: Fase 1 (Mamíferos) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: University of Michigan Museum of Zoology, Division of Mammals 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Fortalecimiento de la Colección de fotocolectas biológicas (CFB): una propuesta del uso de la imagen digital al servicio del conocimiento de la biodiversidad 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Actualización de la base de datos del Atlas Mastozoológico de México 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Paleobiology Database 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: La mastofauna del cuaternario tardío de México 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Cowan Tetrapod Collection - Mammals 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Vertebrados terrestres del Corredor Biológico Sierra Madre del Sur, Chiapas, México 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Biodiversidad de los mamíferos en el Estado de Michoacán 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Biodiversity Research and Teaching Collections - TCWC Vertebrates 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Mamíferos silvestres de la cuenca del río Mezquital-San Pedro, Durango-Nayarit 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Actualización de la base de datos del estado de Morelos de la Colección Nacional de Mamíferos del Instituto de Biología, UNAM 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: CNMA/Colección de Mamíferos de la Estación de Biología Los Tuxtlas 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Sistematización de las colecciones científicas del Instituto de Historia Natural y Ecología, (IHNE) Chiapas 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: LSUMZ Mammals Collection 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Colección científica del Museo de Historia Natural Alfredo Dugés 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Determinantes ambientales de la abundancia de vertebrados terrestres en la región Lacandona: Primera fase 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Mamíferos del Estado de Veracruz 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: iNaturalist Research-grade Observations 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: AMNH Mammal Collections 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode

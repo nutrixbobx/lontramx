@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+packageId="b63419e7-e2de-4b43-951d-a84d57776ca9"  system="http://gbif.org" scope="system"
+xml:lang="en">
+    <dataset>
+        <title>GBIF Occurrence Download 0056998-251120083545085</title>
+        <creator>
+            <individualName>
+                <surName>GBIF Download Service</surName>
+            </individualName>
+            <electronicMailAddress>support@gbif.org</electronicMailAddress>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <surName>GBIF Download Service</surName>
+            </individualName>
+            <electronicMailAddress>support@gbif.org</electronicMailAddress>
+        </metadataProvider>
+        <pubDate>
+                2025-12-17
+        </pubDate>
+        <language>ENGLISH</language>
+        <abstract>
+            A dataset containing all occurrences available in GBIF matching the query:
+{
+  "and" : [
+    "Country is Mexico",
+    "OccurrenceStatus is Present",
+    "TaxonKey is Lontra"
+  ]
+}
+The dataset includes records from the following constituent datasets. The full metadata for each constituent is also included in this archive:
+3 records from UAZ Mammals
+34 records from Base de datos de mamíferos de México depositados en colecciones de Estados Unidos y Canadá
+17 records from Digitalización y Sistematización de las Colecciones Biológicas Nacionales del Instituto de Biología, UNAM (vertebrados)
+39 records from Actualización y enriquecimiento de las bases de datos del proyecto de evaluación y análisis geográfico de la diversidad faunística de Chiapas
+1 records from MLZ Mammal Collection (Arctos)
+1 records from Global Roadkill Data: a dataset on terrestrial vertebrate mortality caused by collision with vehicles (Opportunistic Records)
+3 records from Natural History Museum (London) Collection Specimens
+1 records from Peces y Mamíferos de la región de Norogachi, Alta Sierra Tarahumara, Chihuahua (Mamíferos)
+1 records from Mammal specimens
+2 records from Computarización de las colecciones de vertebrados terrestres de la Escuela Nacional de Ciencias Biológicas, IPN Fase 4 (Mamíferos)
+18 records from Inventario de aves y mamíferos en humedales de Laguna de Términos y Pantanos de Centla en Tabasco y Campeche
+4 records from NMNH Extant Specimen Records (USNM, US)
+1 records from Deforestación y fragmentación del hábitat: consecuencias ecológicas sobre la fauna de mamíferos de la selva tropical estacional
+12 records from CNMA/Colección Nacional de mamíferos
+1 records from Diversidad y distribución mastofaunística en las regiones prioritarias para la conservación del estado de Oaxaca
+1 records from Field Museum of Natural History (Zoology) Mammal Collection
+1 records from SDNHM Mammology Collection
+1 records from Museum of Comparative Zoology, Harvard University
+1 records from Anfibios, reptiles y mamíferos del corredor biológico del norte de Yucatán depositados en las colecciones de la Escuela Nacional de Ciencias Biológicas
+1 records from CNMA/Colección de Mamíferos de la Estación de Biología Chamela
+18 records from KUBI Mammalogy Collection
+6 records from Bosque Mesófilo de Montaña de México
+3 records from The mammals collection (ZM) of the Muséum national d'Histoire naturelle (MNHN - Paris)
+2 records from Catálogo de los mamíferos de México en resguardo de The Natural History Museum (London), Inglaterra
+1 records from Vertebrados terrestres de San Juan de Camarones, Durango
+2 records from Monitoreo de la Fauna Silvestre con Capacitación y Certificación de Monitores Comunitarios en las Microrregiones Prioritarias para la Conectividad y Conservación de la Biodiversidad Agua Blanca, Cañón del Usumacinta, Sierra de Tabasco, *
+1 records from Apoyo a las colecciones biológicas de la Facultad de Ciencias de la UNAM: Fase 1 (Mamíferos)
+1 records from University of Michigan Museum of Zoology, Division of Mammals
+34 records from Fortalecimiento de la Colección de fotocolectas biológicas (CFB): una propuesta del uso de la imagen digital al servicio del conocimiento de la biodiversidad
+450 records from Actualización de la base de datos del Atlas Mastozoológico de México
+1 records from Paleobiology Database
+15 records from La mastofauna del cuaternario tardío de México
+1 records from Cowan Tetrapod Collection - Mammals
+6 records from Vertebrados terrestres del Corredor Biológico Sierra Madre del Sur, Chiapas, México
+1 records from Biodiversidad de los mamíferos en el Estado de Michoacán
+4 records from Biodiversity Research and Teaching Collections - TCWC Vertebrates
+3 records from Mamíferos silvestres de la cuenca del río Mezquital-San Pedro, Durango-Nayarit
+2 records from Actualización de la base de datos del estado de Morelos de la Colección Nacional de Mamíferos del Instituto de Biología, UNAM
+5 records from CNMA/Colección de Mamíferos de la Estación de Biología Los Tuxtlas
+3 records from Sistematización de las colecciones científicas del Instituto de Historia Natural y Ecología, (IHNE) Chiapas
+4 records from LSUMZ Mammals Collection
+3 records from Colección científica del Museo de Historia Natural Alfredo Dugés
+1 records from Determinantes ambientales de la abundancia de vertebrados terrestres en la región Lacandona: Primera fase
+2 records from Mamíferos del Estado de Veracruz
+209 records from iNaturalist Research-grade Observations
+4 records from AMNH Mammal Collections
+
+        </abstract>
+        <contact>
+            <individualName>
+                <surName>GBIF Download Service</surName>
+            </individualName>
+            <electronicMailAddress>support@gbif.org</electronicMailAddress>
+        </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-12-17T20:18:29Z</dateStamp>
+                <citation identifier="0056998-251120083545085">GBIF Occurrence Download 0056998-251120083545085</citation>
+                <physical>
+                    <objectName>Darwin Core Archive</objectName>
+                    <characterEncoding>UTF-8</characterEncoding>
+                    <dataFormat>
+                        <externallyDefinedFormat>
+                            <formatName>Darwin Core Archive</formatName>
+                        </externallyDefinedFormat>
+                    </dataFormat>
+                    <distribution>
+                        <online>
+                            <url function="download">https://api.gbif.org/v1/occurrence/download/request/0056998-251120083545085.zip</url>
+                        </online>
+                    </distribution>
+                </physical>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+    </eml:eml>
